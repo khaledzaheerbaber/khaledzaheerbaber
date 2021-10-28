@@ -1,0 +1,15 @@
+D:\InterView\TestProj\RestProject\Services\bin\Debug\Services.dll
+D:\InterView\TestProj\RestProject\Services\bin\Debug\Services.pdb
+D:\InterView\TestProj\RestProject\Services\bin\Debug\DAL.dll
+D:\InterView\TestProj\RestProject\Services\bin\Debug\Entity.dll
+D:\InterView\TestProj\RestProject\Services\bin\Debug\EntityFramework.dll
+D:\InterView\TestProj\RestProject\Services\bin\Debug\DAL.pdb
+D:\InterView\TestProj\RestProject\Services\bin\Debug\DAL.dll.config
+D:\InterView\TestProj\RestProject\Services\bin\Debug\Entity.pdb
+D:\InterView\TestProj\RestProject\Services\bin\Debug\Entity.dll.config
+D:\InterView\TestProj\RestProject\Services\bin\Debug\EntityFramework.xml
+D:\InterView\TestProj\RestProject\Services\obj\Debug\Services.csprojAssemblyReference.cache
+D:\InterView\TestProj\RestProject\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+D:\InterView\TestProj\RestProject\Services\obj\Debug\Services.csproj.CopyComplete
+D:\InterView\TestProj\RestProject\Services\obj\Debug\Services.dll
+D:\InterView\TestProj\RestProject\Services\obj\Debug\Services.pdb
